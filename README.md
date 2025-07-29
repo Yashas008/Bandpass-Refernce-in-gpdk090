@@ -26,7 +26,7 @@ docs/ — Screenshots of performance curves (optional)
 | Vref                | ~1.2 V                  |
 | Tempco              | ~154 ppm/°C             |
 | ΔVref               | ~12 mV (27°C to 92°C)   |
-| Power Supply        | 1.8 V                   |
+| Power Supply        | 2 V                     |
 
   Learnings
 
