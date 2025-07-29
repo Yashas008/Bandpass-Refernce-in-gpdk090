@@ -1,0 +1,51 @@
+# Spectre simulator files
+*/spectre/*
+*/psf/*
+*/waves/*
+*/results/*
+*.log
+*.ahdl*
+*.raw
+
+# Virtuoso lock and cache files
+*.cdslck
+*.oa*
+*.ilinit
+*.simvision
+*.dsn
+*.log
+*.strm*
+*.diag
+*.tcl
+*.bak
+*.info
+
+# Cadence simulation caches
+*.run
+*.history
+*.history2
+*.fsdb
+*.trn
+*.sdf
+*.svdb
+*.sw0
+*.sw1
+
+# Temporary or editor files
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# GDS file backups
+*.gds.bak
+
+# Auto-generated debug data
+*debug.log
+netlist/*
+netlist.log
+
+# Do not upload library if it includes proprietary PDKs
+# Uncomment if needed
+# gpdk090/
